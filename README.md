@@ -50,21 +50,21 @@ Studying how adversarial documents manipulate retrieval-augmented generation sys
 - Measuring **attack success rate** across injection strategies
 - Evaluating **defensive techniques** (e.g. retrieval filtering, [ADD WHAT YOU ACTUALLY USE])
 - **Stack:** Python · [vector DB] · [LLM/embedding models]
-- 🔗 [Repo](LINK)
+- 🔗 [Repo](https://github.com/Dhwanish08/RAG-Corpus)
 
 ### 🏙️ Threshold: Urban Development Analysis
 Geospatial ML platform that identifies **urban service gaps and development hotspots** from geographic data.
 - [What data / how many regions or datapoints?]
 - [Model or method used, and what it outputs]
 - **Stack:** Python · [GeoPandas / ML libs] · [frontend]
-- 🔗 [Repo](LINK) · [Demo](LINK)
+- 🔗 [Repo]() · [Demo](LINK)
 
 ### 🖱️ Vision-Based Virtual Mouse
 Real-time gesture-controlled mouse using a **custom PyTorch hand-gesture classifier** on MediaPipe landmarks.
 - Controls cursor movement, click, and scroll with [N] gestures
 - [Accuracy / FPS / latency, if you measured it]
 - **Stack:** PyTorch · MediaPipe · OpenCV · Python
-- 🔗 [Repo](LINK) · [Demo GIF](LINK)
+- 🔗 [Repo]((https://github.com/Dhwanish08/vision-based-virtual-mouse)) · [Demo GIF](LINK)
 
 ---
 
