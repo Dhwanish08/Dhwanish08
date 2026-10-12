@@ -1,88 +1,100 @@
+
 <h1 align="center">Dhwanish Desai</h1>
 
 <p align="center">
-  <a href="https://readme-typing-svg.demolab.com">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&width=620&lines=Applied+AI+%2F+GenAI+Engineer;I+build+LLM+systems+and+the+backends+behind+them;Currently+researching+RAG+security;CS+%40+Adani+University+%7C+Class+of+2027" alt="Typing SVG" />
+  <strong>Applied AI & GenAI Engineering Intern Candidate</strong>
+  <br />
+  Building AI applications, LLM workflows, and reliable backend systems.
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/dhwanish/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/Dhwanish08">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/dhwanish/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="YOUR_RESUME_LINK"><img src="https://img.shields.io/badge/Resume-000000?style=for-the-badge&logo=readthedocs&logoColor=white" /></a>
-  <img src="https://komarev.com/ghpvc/?username=Dhwanish08&style=for-the-badge&color=blue" />
-</p>
-
 ---
 
-## 👋 About
+## About
 
-Final-year CSE (AI–ML) student who builds **practical AI systems end to end**: model, API, database, and workflow.
-I'm drawn to the unglamorous parts that make GenAI actually work in production: retrieval quality, orchestration, evaluation, and security.
+I'm a Computer Science and Engineering undergraduate specializing in AI–ML at Adani University, graduating in 2027.
 
-- 🔬 **Researching:** how adversarial documents poison RAG pipelines, and which defenses hold up
-- 🛠️ **Building:** agentic workflows with LangGraph, FastAPI backends, CV-based interfaces
-- 💼 **Previously:** Full-Stack Engineering Intern @ Brandly (AI lead-intelligence workflows)
-- 🎯 **Looking for:** Applied AI / GenAI / Backend internships and new-grad roles (2027)
+I'm interested in building practical AI systems end to end — from machine learning and retrieval pipelines to backend APIs and intelligent workflows. I enjoy understanding how these systems work, evaluating their limitations, and making them more reliable.
 
----
+- **Focus:** Applied AI, Generative AI, and backend engineering
+- **Exploring:** RAG security, retrieval quality, and AI workflow orchestration
+- **Experience:** Full-Stack Engineering Intern at Brandly
+- **Currently building:** Projects that combine AI engineering with practical evaluation
 
-## 🧰 Tech Stack
+## Technical Skills
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python,js,java,cpp,pytorch,fastapi,postgres,mongodb,git,github,jupyter,docker&perline=12" />
-</p>
-
-| Area | Tools |
+| Area | Technologies |
 |---|---|
-| **Languages** | Python · JavaScript · SQL · Java · C++ |
-| **AI / ML** | PyTorch · Deep Learning · NLP · Computer Vision (OpenCV, MediaPipe) |
-| **GenAI Engineering** | RAG · LangGraph · AI workflow automation · LLM evaluation |
-| **Backend** | FastAPI · REST APIs · PostgreSQL · MongoDB |
-| **Tooling** | Git · GitHub · Jupyter · Google Colab |
+| Languages | Python, JavaScript, SQL, Java, C++ |
+| AI / ML | PyTorch, Machine Learning, Deep Learning, NLP |
+| Computer Vision | OpenCV, MediaPipe |
+| GenAI | LangGraph, LLM applications, RAG |
+| Backend | FastAPI, REST APIs, PostgreSQL, MongoDB |
+| Tools | Git, GitHub, Jupyter Notebook, Google Colab |
 
----
+## Featured Projects
 
-## 🚀 Featured Projects
+### RAG Security Evaluation — In Progress
 
-### 🛡️ RAG Security Evaluation `In Progress`
-Studying how adversarial documents manipulate retrieval-augmented generation systems.
-- Measuring **attack success rate** across injection strategies
-- Evaluating **defensive techniques** (e.g. retrieval filtering, [ADD WHAT YOU ACTUALLY USE])
-- **Stack:** Python · [vector DB] · [LLM/embedding models]
-- 🔗 [Repo](https://github.com/Dhwanish08/RAG-Corpus)
+An experimental project investigating how adversarial documents can influence retrieval-augmented generation (RAG) systems.
 
-### 🏙️ Threshold: Urban Development Analysis
-Geospatial ML platform that identifies **urban service gaps and development hotspots** from geographic data.
-- [What data / how many regions or datapoints?]
-- [Model or method used, and what it outputs]
-- **Stack:** Python · [GeoPandas / ML libs] · [frontend]
-- 🔗 [Repo]() · [Demo](LINK)
+- Established a clean RAG baseline and a question set for evaluation.
+- Working toward measuring attack success across different poisoning strategies.
+- Planned evaluation of defensive techniques and their effect on clean-answer quality.
 
-### 🖱️ Vision-Based Virtual Mouse
-Real-time gesture-controlled mouse using a **custom PyTorch hand-gesture classifier** on MediaPipe landmarks.
-- Controls cursor movement, click, and scroll with [N] gestures
-- [Accuracy / FPS / latency, if you measured it]
-- **Stack:** PyTorch · MediaPipe · OpenCV · Python
-- 🔗 [Repo]((https://github.com/Dhwanish08/vision-based-virtual-mouse)) · [Demo GIF](LINK)
+**Status:** Baseline complete; attack and defense experiments in progress.
 
----
+**Technologies:** Python, embeddings, vector retrieval, LLM inference.
 
-## 💼 Experience
+[Repository](https://github.com/Dhwanish08/RAG-Corpus)
 
-**Full-Stack Engineering Intern · Brandly**
-- Built backend services and APIs for **AI-powered lead intelligence workflows**
-- [Quantified result: e.g. "reduced X by Y%", "processed N leads/day"]
-- [Specific tech: FastAPI / Postgres / LLM provider / etc.]
+### Threshold — Urban Development & Service Gap Analysis
 
----
+A geospatial platform designed to identify urban service gaps and potential development hotspots using geographic data and machine learning.
 
-## 🎓 Education
+- Collaborated with a five-member team as team leader.
+- Worked on integrating geospatial data processing, a backend API, and a web interface.
+- Designed around data-driven identification and prioritization of urban development needs.
 
-**B.Tech, Computer Science & Engineering (AI–ML)** · Adani University · Expected 2027
+**Technologies:** React, FastAPI, MongoDB, Google Earth Engine.
+
+
+### Vision-Based Virtual Mouse
+
+A computer-vision project for controlling mouse interactions through hand gestures.
+
+- Developed a gesture-recognition pipeline using computer vision and deep learning.
+- Worked with a dataset of 39,890 images for hand-gesture recognition.
+- Integrated gesture predictions with real-time system controls.
+
+**Technologies:** Python, PyTorch, MobileNetV2, MediaPipe, OpenCV.
+
+[Repository](https://github.com/Dhwanish08/vision-based-virtual-mouse)
+
+## Experience
+
+**Full-Stack Engineering Intern — Brandly**  
+*2026 · Remote*
+
+Contributed to an AI-powered lead-intelligence SaaS application involving frontend development, backend services, and workflow automation.
+
+Detailed responsibilities and implementation highlights will be added as the experience section is finalized.
+
+## Education
+
+**B.Tech in Computer Science and Engineering (AI–ML)**  
+Adani University · Expected 2027
 
 ---
 
 <p align="center">
-  <i>Open to internships, research collaborations, and interesting problems. Reach out.</i>
+  <em>Interested in practical AI engineering, thoughtful experimentation, and building useful software.</em>
 </p>
